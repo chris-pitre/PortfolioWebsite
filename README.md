@@ -1,49 +1,36 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal TypeScript Starter
-</h1>
+<a name="readme-top"></a>
 
-## 🚀 Quick start
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-1.  **Create a Gatsby site.**
+<br />
+<div align="center">
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+<h3 align="center">Portfolio Website</h3>
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby -- -ts
-    ```
+</div>
 
-2.  **Start developing.**
+## About The Project
 
-    Navigate into your new site’s directory and start it up.
+Repo for my portfolio
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
 
-3.  **Open the code and start customizing!**
+### Built With
 
-    Your site is now running at http://localhost:8000!
+* [![React][React.js]][React-url]
+* [![Gatsby][GatsbyJS]][Gatsby-url]
+* [![Tailwind][TailwindCSS]][Tailwind-url]
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
+## Contact
 
-4.  **Learn more**
+Your Name - c.tophanp3@gmail.com
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-## 🚀 Quick start (Netlify)
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/christpitre/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
+[React-url]: https://reactjs.org/
+[GatsbyJS]: https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby
+[Gatsby-url]: https://www.gatsbyjs.com/
+[TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
