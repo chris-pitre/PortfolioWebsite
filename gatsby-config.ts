@@ -12,4 +12,8 @@ const config: GatsbyConfig = {
   plugins: ["gatsby-plugin-postcss"]
 };
 
+module.exports = {
+  pathPrefix: "/Portfolio",
+}
+
 export default config;
