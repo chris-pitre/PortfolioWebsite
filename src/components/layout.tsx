@@ -12,7 +12,6 @@ const Layout: React.FC<LayoutProps> = ({pageTitle, children}) => {
             <Navbar />
             <main>
                 <div className='text-center'>
-                    <h1>{pageTitle}</h1>
                     {children}
                 </div>
             </main>

@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
     const location = useLocation();
 
     return (
-        <nav className="relative flex w-full flex-wrap bg-rose-800 p-3 justify-between shadow-dark-mild">
+        <nav className="flex flex-wrap bg-rose-800 p-3 justify-between shadow-dark-mild fixed top-0 w-full">
             <div className='container mx-auto flex justify-between'>
                 <div className="flex items-center">
                     <Link to="/">
