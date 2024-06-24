@@ -11,8 +11,10 @@ const Layout: React.FC<LayoutProps> = ({pageTitle, children}) => {
         <div>
             <Navbar />
             <main>
-                <h1>{pageTitle}</h1>
-                {children}
+                <div className='text-center'>
+                    <h1>{pageTitle}</h1>
+                    {children}
+                </div>
             </main>
         </div>
     )

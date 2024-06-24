@@ -33,6 +33,7 @@ const Navbar: React.FC = () => {
                     <span className="ml-3 text-white text-xl font-bold">Chris Pitre</span>
                 </div>
                 <div className="flex items-center">
+                    <NavbarItem itemLink="/" content="Home" isActive={location.pathname === '/'} />
                     <NavbarItem itemLink="/about" content="About Me" isActive={location.pathname === '/about/'} />
                     <NavbarItem itemLink="/projects" content="Projects" isActive={location.pathname === '/projects/'} />
                 </div>
